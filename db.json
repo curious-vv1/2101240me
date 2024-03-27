@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop 1",
+      "price": 2236,
+      "rating": 4.7,
+      "discount": 63,
+      "availability": "yes"
+    },
+    {
+      "id": 2,
+      "productName": "Laptop 13",
+      "price": 1244,
+      "rating": 4.5,
+      "discount": 45,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 3,
+      "productName": "Laptop 3",
+      "price": 9102,
+      "rating": 4.44,
+      "discount": 98,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 4,
+      "productName": "Desktop PC",
+      "price": 3999,
+      "rating": 4.2,
+      "discount": 20,
+      "availability": "yes"
+    },
+    {
+      "id": 5,
+      "productName": "Gaming Laptop",
+      "price": 5799,
+      "rating": 4.8,
+      "discount": 15,
+      "availability": "yes"
+    },
+    {
+      "id": 6,
+      "productName": "Ultrabook",
+      "price": 1799,
+      "rating": 4.6,
+      "discount": 25,
+      "availability": "yes"
+    },
+    {
+      "id": 7,
+      "productName": "Tablet",
+      "price": 599,
+      "rating": 4.3,
+      "discount": 10,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 8,
+      "productName": "Smartphone",
+      "price": 899,
+      "rating": 4.5,
+      "discount": 30,
+      "availability": "yes"
+    },
+    {
+      "id": 9,
+      "productName": "Printer",
+      "price": 199,
+      "rating": 4.1,
+      "discount": 5,
+      "availability": "yes"
+    },
+    {
+      "id": 10,
+      "productName": "External HDD",
+      "price": 99,
+      "rating": 4.4,
+      "discount": 15,
+      "availability": "yes"
+    },
+    {
+      "id": 11,
+      "productName": "Wireless Mouse",
+      "price": 29,
+      "rating": 4.2,
+      "discount": 0,
+      "availability": "yes"
+    },
+    {
+      "id": 12,
+      "productName": "Mechanical Keyboard",
+      "price": 149,
+      "rating": 4.7,
+      "discount": 10,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 13,
+      "productName": "Gaming Headset",
+      "price": 79,
+      "rating": 4.6,
+      "discount": 20,
+      "availability": "yes"
+    },
+    {
+      "id": 14,
+      "productName": "Webcam",
+      "price": 49,
+      "rating": 4.1,
+      "discount": 5,
+      "availability": "yes"
+    },
+    {
+      "id": 15,
+      "productName": "Speakers",
+      "price": 89,
+      "rating": 4.3,
+      "discount": 15,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 16,
+      "productName": "Laptop Bag",
+      "price": 59,
+      "rating": 4.5,
+      "discount": 10,
+      "availability": "yes"
+    },
+    {
+      "id": 17,
+      "productName": "Gaming Mouse",
+      "price": 69,
+      "rating": 4.6,
+      "discount": 25,
+      "availability": "yes"
+    },
+    {
+      "id": 18,
+      "productName": "Wireless Keyboard",
+      "price": 39,
+      "rating": 4.2,
+      "discount": 0,
+      "availability": "yes"
+    },
+    {
+      "id": 19,
+      "productName": "HDMI Cable",
+      "price": 19,
+      "rating": 4.4,
+      "discount": 5,
+      "availability": "yes"
+    },
+    {
+      "id": 20,
+      "productName": "USB Hub",
+      "price": 29,
+      "rating": 4.3,
+      "discount": 10,
+      "availability": "out-of-stock"
+    }
+  ]
+}
